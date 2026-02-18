@@ -45,3 +45,10 @@ Go to the Agents tab and click on the Departments button. From there, you can cr
 Create a department called "SysAdmins", which will be used specifically for Supreme Admins.
 
 You can also configure additional settings within the Departments tab, such as SLAs, department managers, and email settings, to ensure everything is tailored to your help desk's operational requirements.
+
+<img width="889" height="554" alt="Screenshot 2026-02-18 111540" src="https://github.com/user-attachments/assets/f3050422-8451-493b-85ba-7b852aca2a50" />
+
+To set up teams, go to Admin Panel->Agents->Teams. Teams enable you to group agents from different departments so they can collaborate more efficiently.
+
+Create a team called "Online Banking" and add agents from the relevant departments as required.
+
