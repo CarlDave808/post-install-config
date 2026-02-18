@@ -87,3 +87,19 @@ Set up the following service levels:
   - Sev-B - Grace Period: 4 hour, Schedule: 24/7
 
   - Sev-C - Grace Period: 8 hour, Schedule: Monday-Friday, 8:00 AM-5:00 PM (excluding U.S. holidays)
+
+<img width="884" height="610" alt="Screenshot 2026-02-18 115726" src="https://github.com/user-attachments/assets/675e89a9-ce75-4191-bdbe-99e712cbd6f0" />
+
+To set up help topics for ticket submission, go to Admin Panel->Manage->Help Topics.
+
+These topics help users properly categorize their tickets, ensuring request are routed and handled efficiently.
+
+  - Business Critical Outage
+  
+  - Personal Computer Issues
+  
+  - Equipment Request
+  
+  - Password Reset
+  
+  - Other
