@@ -70,4 +70,20 @@ To set up agents (workers), navigate to Admin Panel->Agents->Add New.
 
 Enter the required information, including the agent's name, email address, assigned role, and department. This will establish their profile and define their access permissions within the system.
 
+<img width="880" height="502" alt="Screenshot 2026-02-18 115207" src="https://github.com/user-attachments/assets/50662a8a-9442-4dc4-8174-2b9a7776741c" />
 
+To set up users(customers), navigate to Agent Panel->Users->Add New.
+
+Create users as Karen by entering their relevant details, including their names and email addresses. This will allow them to submit tickets and manage their requests within the system.
+
+<img width="888" height="635" alt="Screenshot 2026-02-18 115528" src="https://github.com/user-attachments/assets/c905e840-d942-4a5b-b001-3df5b3cc8842" />
+
+To configure SLA settings, navigate to Admin Panel->Manage->SLA
+
+Set up the following service levels:
+
+  - Sev-A - Grace Period: 1 hour, Schedule: 24/7
+
+  - Sev-B - Grace Period: 4 hour, Schedule: 24/7
+
+  - Sev-C - Grace Period: 8 hour, Schedule: Monday-Friday, 8:00 AM-5:00 PM (excluding U.S. holidays)
