@@ -52,3 +52,22 @@ To set up teams, go to Admin Panel->Agents->Teams. Teams enable you to group age
 
 Create a team called "Online Banking" and add agents from the relevant departments as required.
 
+<img width="883" height="657" alt="Screenshot 2026-02-18 113116" src="https://github.com/user-attachments/assets/e1b41c33-6c57-4aa0-bd35-8c0487594ae7" />
+
+To permit anyone to submit tickets, navigate to Admin Panel->Settings->User Settings.
+
+Clear the checkbox labeled "Require registration and login to create tickets". This will allow users to create and submit tickets without registering or logging into account.
+
+<img width="881" height="722" alt="Screenshot 2026-02-18 113244" src="https://github.com/user-attachments/assets/c24a790b-c85b-405b-95e1-c4f46143a613" />
+
+<img width="883" height="520" alt="Screenshot 2026-02-18 113432" src="https://github.com/user-attachments/assets/234e4e58-66e1-46dd-a28d-87d81e3cfcdd" />
+
+<img width="885" height="493" alt="Screenshot 2026-02-18 113506" src="https://github.com/user-attachments/assets/79c53620-06ef-472c-9eee-e53ac6226fba" />
+
+<img width="886" height="425" alt="Screenshot 2026-02-18 113533" src="https://github.com/user-attachments/assets/872bbc19-011a-4428-8747-3025a25dc04c" />
+
+To set up agents (workers), navigate to Admin Panel->Agents->Add New.
+
+Enter the required information, including the agent's name, email address, assigned role, and department. This will establish their profile and define their access permissions within the system.
+
+
