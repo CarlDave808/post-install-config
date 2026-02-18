@@ -28,6 +28,10 @@ With osTicket now fully configured, we'll move on to system administration tasks
 
 <img width="886" height="678" alt="Screenshot 2026-02-18 102748" src="https://github.com/user-attachments/assets/966a18f2-949f-44db-9618-0ff890814a2e" />
 
+<img width="886" height="544" alt="Screenshot 2026-02-18 104523" src="https://github.com/user-attachments/assets/a5a3fc31-24b4-4768-b5c2-292457ee779a" />
+
+<img width="884" height="400" alt="Screenshot 2026-02-18 104550" src="https://github.com/user-attachments/assets/d94553da-a27f-43c0-a8ff-0242a8771cbd" />
+
 To set up new roles in the help desk, navigate to Admin Panel->Agents->Roles. Select "Add New Role", then enter a name for the role such as "Supreme Admin".
 
 From There, you can define the permissions and responsibilties assigned to the role. Since this is a Supreme Admin role, be sure to enable all available permissions to grant complete administrative access.
