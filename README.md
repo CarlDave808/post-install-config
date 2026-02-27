@@ -6,6 +6,13 @@
 
 This guide provides step-by-step instructions for configuring the open-source help desk ticketing system osTicket after installation.
 
+This is the osTicket series
+
+  - https://github.com/CarlDave808/post-install-config
+
+  - https://github.com/CarlDave808/osticket-prereqs
+
+  - https://github.com/CarlDave808/ticket-lifecycle
 
 <h2>Environments and Technologies Used</h2>
 
